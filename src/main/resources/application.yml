@@ -1,0 +1,6 @@
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  file: /var/log/tomcat/wechat-order.log
+#  level:
+#    com.lucas.LoggerTest: debug
